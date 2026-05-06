@@ -1,3 +1,4 @@
+
 # ⚽ Sports Analysis Study (Spor Analizi Çalışması)
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/halukcansarioz/spor-analizi-calismasi/blob/main/veri_madencili%C4%9Fi.ipynb)
@@ -6,7 +7,7 @@
 [![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)](#)
 [![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)](#)
 
-Welcome to the **Sports Analysis Study** repository! This project focuses on exploring, cleaning, and analyzing sports-related datasets to uncover trends, player statistics, and match performance insights using data science methodologies.
+Welcome to the **Sports Analysis Study** repository! This project focuses on exploring, cleaning, and analyzing sports‑related datasets to uncover trends, player statistics, and match performance insights using data science methodologies.
 
 ## 📚 Table of Contents
 - [About the Project](#about-the-project)
@@ -22,7 +23,7 @@ Welcome to the **Sports Analysis Study** repository! This project focuses on exp
 
 ## About the Project
 
-As part of my continuous self-improvement journey after graduating from Ankara University Computer Engineering, I have been taking online courses and developing projects in Front-end, Back-end, and data science fields. This repository is a practical study applying data analysis and visualization techniques to the sports domain.
+As part of my continuous self‑improvement journey after graduating from Ankara University Computer Engineering, I have been taking online courses and developing projects in Front‑end, Back‑end, and data science fields. This repository is a practical study applying data analysis and visualization techniques to the sports domain.
 
 - **Developer:** Haluk Can SARIÖZ
 - **Type:** Data Analysis / Data Mining
@@ -33,17 +34,17 @@ As part of my continuous self-improvement journey after graduating from Ankara U
 
 ## Features & Scope
 
-- **Exploratory Data Analysis (EDA):** In-depth exploration of sports datasets to understand distributions, correlations, and key metrics.
+- **Exploratory Data Analysis (EDA):** In‑depth exploration of sports datasets to understand distributions, correlations, and key metrics.
 - **Data Cleaning & Preprocessing:** Handling missing values, standardizing formats, and preparing raw sports data for analysis.
 - **Data Visualization:** Creating charts, graphs, and heatmaps to visually represent player/team performance and historical trends.
-- **Statistical Insights:** Extracting meaningful patterns and statistics to answer specific sports-related analytical questions.
+- **Statistical Insights:** Extracting meaningful patterns and statistics to answer specific sports‑related analytical questions.
 
 ---
 
 ## Tech Stack
 
 | Category | Technology |
-|----------|------------|
+|:---------|:-----------|
 | **Language** | Python |
 | **Data Processing** | Pandas, NumPy |
 | **Visualization** | Matplotlib, Seaborn |
@@ -96,7 +97,7 @@ To run the notebook directly in your browser without any installation, click the
 ## Project Structure
 ```text
 spor-analizi-calismasi/
-├── veri_madenciliği.ipynb      # Main analysis notebook (Colab-compatible)
+├── veri_madenciliği.ipynb      # Main analysis notebook (Colab‑compatible)
 ├── README.md                    # Project documentation
 └── .gitattributes               # Git configuration file
 ```
